@@ -1,0 +1,14 @@
+ADMIN
+username = admin@gmail.com
+password = admin
+
+PETUGAS
+username = anggota1@satpolppgarut.com
+password = 123
+
+MASYARAKAT
+username = 1906004@itg.ac.id
+password = 123
+
+username = 1906016@itg.ac.id
+password = 123
